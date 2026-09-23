@@ -16,7 +16,7 @@
 | 2 | Esther Garcia |  |  |
 | 3 | Pablo Colop |  |  |
 | 4 | Walter Martinez |  |  |
-| 5 | Aura Marina |  |  |
+| 5 | Aura Marina | 202500244 | 202500244 |
 | 6 | Chung Kim |  |  |
 
 **Fecha de entrega:** 23/09/2026

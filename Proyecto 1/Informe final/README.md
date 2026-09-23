@@ -130,22 +130,22 @@ Para ejemplificar de mejor manera la teoría explicada, se utilizó una aplicaci
 
 ### Marina Mejia
 
-####Fortalezas
+#### Fortalezas
 * Tengo facilidad para expresarme y comunicar ideas de manera clara frente a otras personas.
 * Tengo buena capacidad de retención y puedo aprender y recordar información en poco tiempo.
 * Cuando conozco y comprendo el tema, puedo transmitir la información con seguridad y entusiasmo.
 
-####Oportunidades
+#### Oportunidades
 * Mejorar mi manejo de los nervios al hablar frente a un grupo de personas.
 * Fortalecer mi contacto visual y mi interacción con el público durante futuras exposiciones.
 * Desarrollar estrategias para mantener la concentración aunque ocurran imprevistos durante una actividad.
 
-####Debilidades
+#### Debilidades
 * Tiendo a estresarme cuando las cosas no salen de acuerdo con lo planificado.
 * El contacto visual directo con muchas personas puede aumentar mis nervios y dificultar que recuerde lo que debo explicar.
 * En ocasiones puedo ser demasiado precipitada al realizar actividades o tomar decisiones.
 
-####Amenazas
+#### Amenazas
 * Los nervios durante una exposición pueden afectar mi fluidez y la forma de transmitir la información.
 * Los errores de otros integrantes pueden afectar mi concentración si me enfoco demasiado en corregirlos.
 * La presión de cumplir con el tiempo establecido puede hacer que explique la información de manera demasiado rápida.

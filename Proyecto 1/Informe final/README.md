@@ -16,7 +16,7 @@
 | 2 | Esther Garcia |  |  |
 | 3 | Pablo Colop |  |  |
 | 4 | Walter Martinez |  |  |
-| 5 | Aura Marina |  |  |
+| 5 | Marina Mejia |202500244  |202500244 |
 | 6 | Chung Kim |  |  |
 
 **Fecha de entrega:** 23/09/2026
@@ -37,13 +37,13 @@ El objetivo general del proyecto fue que los participantes comprendieran el func
 
 ### 2.1 Objetivo general
 
-Escriban un objetivo general
+Transmitir informacion sobre las APIS REST a estudiantes de computacion de manera asertiva, fomentando su aprendizaje 
 
 ### 2.2 Objetivos específicos
 
-- objetivo 
-- objetivo
-- objetivo
+- Que al terminar la conferencia los estudiantes puedan decir con seguridad que saben cómo funcionan las APIS REST 
+- Que la información les parezca interesante y los inste a investigar más sobre el tema 
+- Expresarnos de forma clara para que dar nuestra charla de manera asertiva
 
 ---
 
@@ -78,13 +78,15 @@ Explicacion general de que son las APIs REST, para que sirven y por qué se elig
 - PATCH.
 - DELETE.
 
-#### Intercambio de información
+#### Intercambio de información (encargada: Marina Mejia)
+Para explicar el intercambio de informacion se utilizaron los 6 conceptos que tenemos a continuacion:
 - URL.
 - Parámetros.
 - Headers.
 - Body.
 - JSON.
 - Códigos HTTP.
+- Se explicó como una solicitud con ejemplos de la vida real, como un pedido y explicando que trabajo realiza cada concepto, por ejemplo: URL es la direccion, los parametreos identifican que necesitamos, los headers es una comunicacion adicional entre el cliente y el servidor, el body es el cuerpo de la solicitud que contiene nuestra informacion, el JSON organiza nuestros datos y la información de nuestra solicitud, los codigos HTTP nos devuelve informacion crucial sobre nuestra solicitud, como si fue procesada correctamente o le falta algo.
 
 #### Seguridad en API REST
 - HTTPS.
@@ -123,6 +125,24 @@ Para ejemplificar de mejor manera la teoría explicada, se utilizó una aplicaci
 #### Amenazas
 - Los nervios pueden afectar mi fluidez al explicar.
 -  La presión o el estrés pueden afectar mi confianza al momento de tomar decisiones.
+
+### Marina Mejia 
+####Fortalezas
+-Tengo muy buena retentiva 
+-Tengo buena comprension 
+-Tengo la capacidad de improvisar si se me olvida algo
+####Oportunidades
+-Hablar de forma mas relajada y por ende mas despacio
+-Controlar mi movimiento constante en las manos que expresan mi nerviosismo 
+-Aprovechar mi comprensión y lograr no aprenderme todo y mejor explicar 
+####Debilidades
+-Gracias a los nervios se me olvida lo que he estudiado
+-Imagino que no hay nadie frente a mi 
+-Me aterra la idea de que se me olvide lo que tengo que decir y tener que quedarme callada 
+####Amenazas
+- Que los nervios se apoderen de mí y tener que terminar la exposición
+- Si hago contacto visual comenzare a tartamudear
+- Que el público no preste atención  
 
 
 ---

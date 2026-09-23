@@ -78,7 +78,7 @@ Explicacion general de que son las APIs REST, para que sirven y por qué se elig
 - PATCH.
 - DELETE.
 
-#### Intercambio de información
+#### Intercambio de información (Encargada: Marina Mejia)
 El intercambio de información en una API REST se realiza mediante solicitudes y respuestas entre el cliente y el servidor. Para explicarlo de forma sencilla, se utilizó como ejemplo la solicitud de un producto.
 
 * URL: indica la dirección del recurso solicitado.
